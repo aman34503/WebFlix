@@ -18,4 +18,4 @@ This section has moved here: https://aman34503.github.io/WebFlix/
 ## About the WebFlix
 ![Capture](https://user-images.githubusercontent.com/77502312/126547866-6ae2d6a8-e484-432e-b025-248361fbc56e.JPG)
  
-	A website which shows all the movies of SRK. This Website is Fully Respopnsive, and Also Contain Both Theme (Dark/Light) by using Toggle. 
+A website which shows all the movies of SRK. This Website is Fully Respopnsive, and Also Contain Both Theme (Dark/Light) by using Toggle. 
