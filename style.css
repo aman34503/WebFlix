@@ -93,7 +93,7 @@
     right: 1px;
     border-radius: 50%;
     cursor: pointer;
-    transition: 1s ease all;
+    transition: .5s ease all;
   }
   
   .sidebar {
@@ -238,6 +238,10 @@
     color: lightgray;
     opacity: 0.5;
     cursor: pointer;
+  }
+  
+  .container,.movie-list-title,.navbar-container,.sidebar,.left-menu-icon,.toggle, .toggle-ball {
+    transition: .5s;
   }
   
   .container.active {
